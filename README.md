@@ -4,5 +4,6 @@ Over the past 14+ years, I've led digital transformation efforts through technic
 
 My work sits at the intersection of design craft, systems thinking, and technical execution – and I'm most energised when working cross-functionally to solve deep product challenges at scale.
 
+[murphytrueman.com](https://www.murphytrueman.com/)
 
-
+[blog.murphytrueman.com](https://blog.murphytrueman.com/)
